@@ -2,3 +2,20 @@
 -------------
 multidimensional arrays
 nested loops
+
+
+Student:
+--------
+name
+math
+phy
+che
+
+name -> init using const
+math, phy, che -> init using setters
+getAverage() -> student avg
+getTotal() -> student total
+
+
+3 students
+class total, class average
